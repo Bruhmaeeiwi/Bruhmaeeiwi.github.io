@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "shihu-rm idle"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "shihu-rm up"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "shihu-rm right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "shihu-rm left"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "shihu-rm down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/shihu-rm",
+	"position": [
+		280,
+		360
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		35,
+		160
+	],
+	"camera_position": [
+		-1740,
+		-900
+	],
+	"sing_duration": 4,
+	"scale": 3.9
+}

@@ -1,0 +1,36 @@
+{
+	"song": {
+		"events": [
+			[
+				45176.4705882353,
+				[
+					[
+						"Play Animation",
+						"shutup",
+						"Dad"
+					]
+				]
+			],
+			[
+				47294.1176470588,
+				[
+					[
+						"Play Animation",
+						"sad",
+						"BF"
+					]
+				]
+			],
+			[
+				56470.5882352941,
+				[
+					[
+						"Play Animation",
+						"mysong",
+						"Dad"
+					]
+				]
+			]
+		]
+	}
+}

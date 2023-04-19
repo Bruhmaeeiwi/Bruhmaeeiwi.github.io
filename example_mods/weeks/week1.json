@@ -1,0 +1,59 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"crdbl",
+			"dad",
+			[
+				146,
+				173,
+				253
+			]
+		],
+		[
+			"ddanton",
+			"pico",
+			[
+				86,
+				173,
+				135
+			]
+		],
+		[
+			"shenanigans",
+			"paggers-sexy",
+			[
+				206,
+				133,
+				95
+			]
+		],
+		[
+			"ight yeah",
+			"mom",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

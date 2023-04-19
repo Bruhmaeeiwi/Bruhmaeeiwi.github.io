@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "gavin up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "gavin right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "gavin left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "gavin down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "gavin idledanceleft"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "gavin idledanceright"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/gavin",
+	"position": [
+		-760,
+		60
+	],
+	"healthicon": "tankman",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		155,
+		0
+	],
+	"camera_position": [
+		-160,
+		-420
+	],
+	"sing_duration": 4,
+	"scale": 5.3
+}

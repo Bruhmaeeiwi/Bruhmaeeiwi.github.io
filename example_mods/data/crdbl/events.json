@@ -1,0 +1,26 @@
+{
+	"song": {
+		"events": [
+			[
+				9000,
+				[
+					[
+						"Play Animation",
+						"switch",
+						"Dad"
+					]
+				]
+			],
+			[
+				13333.3333333333,
+				[
+					[
+						"Alt Idle Animation",
+						"Dad",
+						"-alt"
+					]
+				]
+			]
+		]
+	}
+}

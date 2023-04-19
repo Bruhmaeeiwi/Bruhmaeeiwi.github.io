@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "switch",
+			"indices": [],
+			"name": "maz switch"
+		},
+		{
+			"offsets": [
+				12,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "maz up"
+		},
+		{
+			"offsets": [
+				11,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "maz right"
+		},
+		{
+			"offsets": [
+				11,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "maz left"
+		},
+		{
+			"offsets": [
+				4,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "maz down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "maz idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "maz alt-idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/maz",
+	"position": [
+		180,
+		380
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		95,
+		100
+	],
+	"camera_position": [
+		-170,
+		-320
+	],
+	"sing_duration": 4,
+	"scale": 5.3
+}

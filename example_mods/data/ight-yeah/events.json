@@ -1,0 +1,811 @@
+{
+	"song": {
+		"events": [
+			[
+				118339.035087719,
+				[
+					[
+						"Play Animation",
+						"mid",
+						"Dad"
+					],
+					[
+						"Alt Idle Animation",
+						"Dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				119539.035087719,
+				[
+					[
+						"Play Animation",
+						"mid",
+						"GF"
+					],
+					[
+						"Alt Idle Animation",
+						"GF",
+						"-alt"
+					]
+				]
+			],
+			[
+				126814.035087719,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				127264.035087719,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				127714.035087719,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				128014.035087719,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				130414.035087719,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				130489.035087719,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				130564.035087719,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				130639.035087719,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				130714.035087719,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				130789.035087719,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				130864.035087719,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				130939.035087719,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				131014.035087719,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				131089.035087719,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				131164.035087719,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				131239.035087719,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				131314.035087719,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				131389.035087719,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				131464.035087719,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				131539.035087719,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				132814.035087719,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				132889.035087719,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				132964.035087719,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				133039.035087719,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				133114.035087719,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				133151.535087719,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				133189.035087719,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				133264.035087719,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				133339.035087719,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				133414.035087719,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				133489.035087719,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				133564.035087719,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				133639.035087719,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				133714.035087719,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				133751.535087719,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				133789.035087719,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				133864.035087719,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				133939.035087719,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				135214.035087719,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				135289.035087719,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				135364.035087719,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				135439.035087719,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				135514.035087719,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				135551.535087719,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				135589.035087719,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				135664.035087719,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				135739.035087719,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				135814.035087719,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				135889.035087719,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				135964.035087719,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				136001.535087719,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				136039.035087719,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				136114.035087719,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				136189.035087719,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				136264.035087719,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				136339.035087719,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				137614.035087719,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				137689.035087719,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				137764.035087719,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				137839.035087719,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				137914.035087719,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				137951.535087719,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				137989.035087719,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				138064.035087719,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				138139.035087719,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				138214.035087719,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				138289.035087719,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				138364.035087719,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				138439.035087719,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				138514.035087719,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				138551.535087719,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				138589.035087719,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				138664.035087719,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				138739.035087719,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				138814.035087719,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				139414.035087719,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				143014.035087719,
+				[
+					[
+						"Alt Idle Animation",
+						"GF",
+						""
+					],
+					[
+						"Alt Idle Animation",
+						"Dad",
+						""
+					]
+				]
+			]
+		]
+	}
+}

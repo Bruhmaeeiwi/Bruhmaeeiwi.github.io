@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "anton-ddr idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "anton-ddr up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "anton-ddr right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "anton-ddr left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "anton-ddr down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/anton-ddr",
+	"position": [
+		130,
+		360
+	],
+	"healthicon": "pico",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		130,
+		71
+	],
+	"camera_position": [
+		-120,
+		-340
+	],
+	"sing_duration": 4,
+	"scale": 6
+}
